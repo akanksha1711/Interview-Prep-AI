@@ -16,7 +16,8 @@ This AI doesn’t just prepare you for interviews—it **coaches you towards suc
 ---
 
 ## 📸 Screenshots  
-(*Upload relevant screenshots of the model in action here*)  
+![Screenshot 2025-03-14 231141](https://github.com/user-attachments/assets/623f8e01-6bf2-47f7-ac94-591d376e52a4)
+  
 
 ---
 
@@ -111,7 +112,14 @@ Your goal is to **simulate real interview experiences**, **assess responses**, a
 ---
 
 ## 🎥 Demonstration  
-(*Upload a video demonstration or screenshots of the model in action here*)  
+![Screenshot from 2025-03-14 23-02-08](https://github.com/user-attachments/assets/384f6a21-0604-49e1-a525-0483c3ae3d61)
+![Screenshot from 2025-03-14 23-02-35](https://github.com/user-attachments/assets/90118f6a-9b4d-4f43-ae49-c6496f216d54)
+![Screenshot from 2025-03-14 23-03-01](https://github.com/user-attachments/assets/73bb4249-c9a8-4c58-9160-03683881afd6)
+![Screenshot from 2025-03-14 23-03-27](https://github.com/user-attachments/assets/9d97d055-641d-482b-8f54-45afb3efbbe2)
+![Screenshot from 2025-03-14 23-04-07](https://github.com/user-attachments/assets/f5da322b-9b1b-4dc8-aad3-0569e3fd6405)
+![Screenshot from 2025-03-14 23-04-31](https://github.com/user-attachments/assets/a33fe1e3-b9c6-4954-9668-8c82e256eed2)
+![Screenshot from 2025-03-14 23-05-29](https://github.com/user-attachments/assets/fa52a855-3a39-474c-8f99-37df7cb36363)
+![Screenshot from 2025-03-14 23-05-44](https://github.com/user-attachments/assets/8f0cb5e6-915f-4115-9979-3d06867adfe2)  
 
 ---
 
